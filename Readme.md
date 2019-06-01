@@ -1,7 +1,7 @@
 # Личный проект «Кекстаграм» [![Build status][travis-image]][travis-url]
 
 * Студент: [Наталья Налимова](https://up.htmlacademy.ru/javascript/17/user/16507).
-* Наставник: `Неизвестно`.
+* Наставник: [Алексей Белявский](https://htmlacademy.ru/profile/id666435).
 
 ---
 
